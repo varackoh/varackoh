@@ -8,6 +8,7 @@ Based in Batangas, Philippines. Applying for the Master's in Cybersecurity at UP
 - Security log monitoring and incident handling
 - Linux basics for security operations (introduced in TESDA training, exploring further)
 - Python basics (currently learning, via Mimo)
+- Remote access to lab machines with SecureCRT (SSH) on VMware and VirtualBox
 
 ## Training
 - TESDA Cyber Threat Monitoring Level I (2026)
